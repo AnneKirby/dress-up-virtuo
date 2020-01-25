@@ -1,0 +1,111 @@
+body{
+	
+    background-image: url("pic2.png");
+}
+
+legend {
+  	font-family: 'Impact', sans-serif;
+    font-size: 22px;
+    line-height: 2; 
+	color: rgb(94, 94, 94);
+	text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.12);
+	text-align: center;
+    
+}
+
+.title{
+	width:450px;
+	padding:30px;
+	margin:10px auto;
+	background: rgb(255, 255, 255);
+	border-radius: 20px;
+	box-shadow: 0px 0px 10px rgba(64, 192, 214, 0.884);
+	-moz-box-shadow: 0px 0px 10px rgba(64, 192, 214, 0.884);
+	-webkit-box-shadow: 0px 0px 10px rgba(64, 192, 214, 0.884);
+	border: 3px rgb(27, 63, 51);
+}
+
+h1{
+	background: rgb(133, 194, 169);
+	padding: 20px 30px 15px 30px;
+	margin: -30px -30px 30px -30px;
+	border-radius: 20px 20px 0 0;
+	color: rgb(0, 0, 0);
+	text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.12);
+	font: normal 30px 'Impact', sans-serif;
+	-moz-box-shadow: inset 0px 10px 10px 0px rgba(255, 255, 255, 0.17);
+	-webkit-box-shadow: inset 0px 10px 10px 0px rgba(255, 255, 255, 0.17);
+	box-shadow: inset 0px 10px 10px 0px rgba(255, 255, 255, 0.17);
+	border: 3px rgb(27, 63, 51);
+	text-align: center;
+}
+
+.info label{
+	display: block;
+	font: 16px 'Rockwell', sans-serif;
+	color: rgb(143, 184, 163);
+	margin-bottom: 5px;
+}
+
+.info input {
+	display: block;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	width: 100%;
+	padding: 8px;
+	border-radius: 1px;
+	-webkit-border-radius:1px;
+	-moz-border-radius:1px;
+	border: 2px solid #fff;
+	box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+	-moz-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+	-webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+}
+
+.info{
+	padding: 30px;
+	background: #F8F8F8;
+}
+
+
+fieldset{
+	margin: 0px 0px 10px 0px;
+	border: 3px solid rgb(182, 214, 203);
+	padding: 3px;
+	background: #F8F8F8;
+	box-shadow: inset 0px 0px 15px #F8F8F8;
+	-moz-box-shadow: inset 0px 0px 15px #F8F8F8;
+	-webkit-box-shadow: inset 0px 0px 15px #F8F8F8;
+}
+
+.btn{
+	background: rgb(82, 85, 85);
+	padding: auto;
+	color: #fff;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12);
+	font: normal 20px 'Rockwell', sans-serif;
+}
+
+.js{
+	height: 2rem;
+    font-size: 1rem;
+    border-radius: 10px;
+}
+
+.js-begin{
+	font: 15px Arial, Helvetica, sans-serif;
+	color: rgb(90, 90, 90);
+}
+.js-end{
+	font: 15px Arial, Helvetica, sans-serif;
+	color: rgb(90, 90, 90);
+}
+.option{
+	float: right;
+	width: 250px;
+	font: 15px 'Rockwell', sans-serif;
+	color: rgb(27, 63, 51)B;
+	margin-top: 10px;
+	text-align: right;
+}
